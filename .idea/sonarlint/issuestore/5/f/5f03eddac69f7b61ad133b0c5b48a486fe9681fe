@@ -1,0 +1,52 @@
+
+M
+java:S1066"/Merge this if statement with the enclosing one.(ü»ÂÈ8ÜŞ©òü.
+0
+java:S1220""Move this file to a named package.
+e
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8­‚íü.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Øªâ¿8»üñü.
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ş°‡ÿÿÿÿÿ8˜ıÔïü.
+^
+java:S1075t"ARefactor your code to get this URI from a customizable parameter.(ØÊÿû8ÒóÚîü.
+c
+java:S2095“"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ê õ¯8»üñü.
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(™ìœıÿÿÿÿ8ÏÁûìü.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÄÄÊñü.
+8
+java:S1116D"Remove this empty statement.(˜ÎÈ'8æ­Âíü.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8´Àïü.
+:
+java:S1643"Use a StringBuilder instead.(æ§–8Õš¬ñü.
+>
+java:S1116X"Remove this empty statement.(áÃâ³ÿÿÿÿÿ8Û¸“îü.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ8Á¡íñü.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¦ò8ÒóÚîü.
+b
+java:S2095y"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ê õ¯8ÄÄÊñü.
+Q
+java:S3740;"/Provide the parametrized type for this generic.(¥Ş°‡ÿÿÿÿÿ8˜ıÔïü.
+:
+java:S1643Ÿ"Use a StringBuilder instead.(æ§–8»üñü.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„ñì8Ü£–íü.
+E
+java:S1604o"(Make this anonymous inner class a lambda(™Ö‡8ü¸ñü.
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8´¸Ûîü.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¦ò8»üñü.
+V
+java:S1197š"8Move the array designator from the variable to the type.(±Ï¿Ã8»üñü.
+9
+java:S1116M"Remove this empty statement.(İúÁ8Õüúíü.
+>
+java:S1116e"Remove this empty statement.(²ïşşÿÿÿÿ8ó€ îü.
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ8°¢‡òü.
+Q
+java:S3740;"/Provide the parametrized type for this generic.(¥Ş°‡ÿÿÿÿÿ8œä×ïü.
+_
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ØÊÿû8»üñü.
+?
+java:S1643œ"Use a StringBuilder instead.(·øçùÿÿÿÿ8»üñü.
